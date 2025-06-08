@@ -29,6 +29,6 @@ This repository contains a Verilog-based implementation of an Arithmetic Logic U
 
 Pratiksha Shetty  
 B.E. in Electronics and Communication Engineering  
-St Joseph Engineering College, Udupi
+St Joseph Engineering College, Mangaluru
 
 This project was completed during my internship at **Mirafra Software Technologies**, Manipal.
